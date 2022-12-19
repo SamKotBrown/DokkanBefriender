@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DokkanBefrienderApp</string>
+    <string name="register_text_button">Register</string>
+    <string name="login_text_button">Log in</string>
+</resources>
